@@ -1,6 +1,6 @@
 # bookstore
 
-> BookStore project
+> BookStore project using Vue.js
 
 ## Build Setup
 
